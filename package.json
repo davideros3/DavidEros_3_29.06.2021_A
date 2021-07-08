@@ -1,0 +1,11 @@
+{
+  "name": "davideros_3_29.06.2021_a",
+  "version": "1.0.0",
+  "description": "Sass Webpage",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css --style compressed"
+  },
+  "author": "",
+  "license": "ISC"
+}
